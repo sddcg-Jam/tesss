@@ -2,6 +2,6 @@
   "name": "sddcg",
   "website": "https://www.baidud.com",
   "description": "dcg",
-  "logo": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+  "logo": "https://raw.githubusercontent.com/Layr-Labs/eigenlayer-cli/master/pkg/operator/config/logo.png",
   "twitter": "https://twitter.com/blockchain_dcg"
 }
